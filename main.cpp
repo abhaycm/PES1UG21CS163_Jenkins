@@ -6,7 +6,7 @@ int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
-  cout << "My SRN  PES1UG21CS163";
+  cout << "My SRN  PES1UG21CS163"
 
 
   return 0;
